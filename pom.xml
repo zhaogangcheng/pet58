@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.b3log</groupId>
-    <artifactId>petfamily</artifactId>
+    <artifactId>pet58</artifactId>
     <packaging>war</packaging>
     <version>3.0.0</version>
-    <name>petfamily</name>
+    <name>pet58</name>
     <url>https://sym.b3log.org</url>
     <description>
         一个用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
@@ -115,11 +115,11 @@
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/onetudou/petfamily/issues</url>
+        <url>https://github.com/zhaogangcheng/pet58/issues</url>
     </issueManagement>
 
     <scm>
-        <url>https://github.com/onetudou/petfamily</url>
+        <url>https://github.com/zhaogangcheng/pet58</url>
     </scm>
 
     <dependencies>
@@ -412,7 +412,7 @@
 
         </plugins>
 
-        <finalName>petfamily</finalName>
+        <finalName>pet58</finalName>
     </build>
 
     <profiles>
